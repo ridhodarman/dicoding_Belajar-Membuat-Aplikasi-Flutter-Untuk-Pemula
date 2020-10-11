@@ -1,2 +1,2 @@
-<img src="https://github.com/ridhodarman/dicoding_Belajar-Membuat-Aplikasi-Flutter-untuk-Pemula/blob/master/dll/ss1.jpg" alt="ss1" width="300px">
-<img src="https://github.com/ridhodarman/dicoding_Belajar-Membuat-Aplikasi-Flutter-untuk-Pemula/blob/master/dll/ss2.jpg" alt="ss2" width="300px">
+<img src="https://github.com/ridhodarman/dicoding_Belajar-Membuat-Aplikasi-Flutter-untuk-Pemula/blob/main/dll/ss1.jpg" alt="ss1" width="300px">
+<img src="https://github.com/ridhodarman/dicoding_Belajar-Membuat-Aplikasi-Flutter-untuk-Pemula/blob/main/dll/ss2.jpg" alt="ss2" width="300px">
